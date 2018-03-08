@@ -9,6 +9,7 @@ SRS ID: CST116SRS06
 Unresolved Issues:  
 
 Notes:  
+abs(my results -  partners results)
 
 Partner Left: Julius  
 
