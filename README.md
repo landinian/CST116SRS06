@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left: Julius  
 
-Partner Right:  
+Partner Right: John 
 
 ---
 
