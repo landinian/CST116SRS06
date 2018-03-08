@@ -9,7 +9,12 @@ SRS ID: CST116SRS06
 Unresolved Issues:  
 
 Notes:  
-abs(my results -  partners results)
+
+if 
+abs(my results -  partners results) < 0.0001
+cout "...";
+
+thoughtco.com
 
 Partner Left: Julius  
 
