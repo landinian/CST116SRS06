@@ -10,9 +10,6 @@ Unresolved Issues:
 
 Notes:  
 
-if 
-abs(my results -  partners results) < 0.0001
-cout "...";
 
 thoughtco.com
 
