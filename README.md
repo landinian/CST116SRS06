@@ -15,7 +15,7 @@ double Left_results = Eide_SSD(sizeof(Eide_SSD) / sizeof(Eide_SSD[0]), Eide_SSD)
 	if (abs((my_results - Left_results) < 0.0001))
 			cout << "outputs match!";
 
-thoughtco.com
+steps for function calaculations taken from /www.thoughtco.com
 
 Partner Left: Julius  
 
