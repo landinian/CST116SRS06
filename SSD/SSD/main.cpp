@@ -13,7 +13,7 @@ int main()
 
 	double my_results = Dull_function(sizeof(array) / sizeof(array[0]), array);
 	
-	cout << my_results; 
+	cout << my_results << endl; 
 
 	return 0;
 }
