@@ -12,9 +12,9 @@ Notes:
 
 steps for function calaculations taken from /www.thoughtco.com
 
-Partner Left: Julius  
+Partner Left: Fearow - (John)  
 
-Partner Right: Fearow - (John) 
+Partner Right: Julius 
 
 ---
 
