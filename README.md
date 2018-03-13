@@ -10,11 +10,15 @@ Unresolved Issues:
 
 Notes:
 
+I do want to declare that I did not recieve valid data from Right partner - Julius, only a valid function from Left partner John. Julius sent me an email on 
+Monday 03/12 at 12:02 pm stating that he was withdrawing from the project. The additional array data was provided by Left partner in place of Right partner. 
+I presume that this will not equate to a deduction in points because it does not precisely follow assignment outline/requirements.
+
 steps for function calaculations taken from /www.thoughtco.com
 
-Partner Left: Fearow - (John)  
+Partner Left: Fearow - (John Eide)  
 
-Partner Right: Julius 
+Partner Right: Whimsicott - Julius 
 
 ---
 
