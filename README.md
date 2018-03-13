@@ -10,6 +10,10 @@ Unresolved Issues:
 
 Notes:
 
+Both arrays produce the same values run through each of the two functions. my data produced a sample standard deviation of 32.5203 and Fearow's data produces 
+a sample standard deviation of 291.125.  When testing these functions I used the cout and setprecision() function from 3 significant digits, all the way up to 
+10 significant digits and the functions would produce identical results. I see no compiler warnings or logic errors and everything runs as expected. 
+
 I do want to declare that I did not recieve valid data from Right partner - Julius, only a valid function from Left partner John. Julius sent me an email on 
 Monday 03/12 at 12:02 pm stating that he was withdrawing from the project. The additional array data was provided by Left partner in place of Right partner. 
 I presume that this will not equate to a deduction in points because it does not precisely follow assignment outline/requirements.
